@@ -1,0 +1,10 @@
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\Contracts
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\ServiceLayer
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\Contracts.deps.json
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\Contracts.runtimeconfig.json
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\ServiceLayer.dll
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\ServiceLayer.deps.json
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\ServiceLayer.runtimeconfig.json
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\ServiceLayer.pdb
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\Contracts.dll
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\AspNetServerlessV8\bin\Release\net8.0\publish\Contracts.pdb

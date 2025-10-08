@@ -1,0 +1,14 @@
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\Contracts.AssemblyInfoInputs.cache
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\Contracts.AssemblyInfo.cs
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\Contracts.csproj.CoreCompileInputs.cache
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\Contracts.dll
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\refint\Contracts.dll
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\Contracts.pdb
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\bin\Release\net8.0\linux-x64\Contracts
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\bin\Release\net8.0\linux-x64\Contracts.deps.json
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\bin\Release\net8.0\linux-x64\Contracts.runtimeconfig.json
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\bin\Release\net8.0\linux-x64\Contracts.dll
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\bin\Release\net8.0\linux-x64\Contracts.pdb
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\Contracts.genruntimeconfig.cache
+c:\Users\cnabo\source\repos\AspNetServerlessV8\src\Contracts\obj\Release\net8.0\linux-x64\ref\Contracts.dll

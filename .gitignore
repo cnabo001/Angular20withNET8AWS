@@ -1,0 +1,106 @@
+# =========================================
+# GLOBAL IGNORE (applies to both src/ and web/)
+# =========================================
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and temp files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.tmp
+*.bak
+*.old
+*.orig
+*.rej
+
+# Environment variables
+.env
+.env.*.local
+
+# =========================================
+# .NET / AWS API FOLDER (src/)
+# =========================================
+
+# Build outputs
+src/bin/
+src/obj/
+src/out/
+src/logs/
+src/TestResults/
+src/wwwroot/lib/
+
+# Visual Studio / JetBrains
+src/.vs/
+src/.idea/
+src/.vscode/
+
+# Config / Publish
+src/Backup/
+src/Properties/PublishProfiles/
+src/launchSettings.json
+src/appsettings*.json
+src/AwsCredentials.json
+src/*.aws.json
+
+# NuGet / Artifacts
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================================
+# ANGULAR 20 UI FOLDER (web/)
+# =========================================
+
+# Dependency and build outputs
+web/node_modules/
+web/dist/
+web/build/
+web/tmp/
+web/.angular/
+web/.cache/
+web/.firebase/
+web/coverage/
+
+# Local environment files
+web/src/environments/environment*.ts
+web/firebase-debug.log
+web/*.local
+web/**/*.local
+
+# IDE / Editor caches
+web/.vscode/
+web/.idea/
+web/.sass-cache/
+web/.DS_Store
+
+# Angular CLI build cache
+web/.angular/cache/
+
+# =========================================
+# MISC
+# =========================================
+
+# Backup / temp / patch files
+*.bak
+*.tmp
+*.old
+*.orig
+*.rej

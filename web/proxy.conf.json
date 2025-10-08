@@ -1,0 +1,9 @@
+{
+    "/api": {
+      "target": "https://mskntqc1la.execute-api.us-east-1.amazonaws.com/Prod",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    }
+  }
+  
